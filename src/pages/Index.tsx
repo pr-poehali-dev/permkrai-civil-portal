@@ -179,7 +179,7 @@ const Index = () => {
                   <div className="bg-accent/10 w-12 h-12 rounded-lg flex items-center justify-center mb-3">
                     <Icon name="Video" size={24} className="text-accent" />
                   </div>
-                  <CardTitle>5000+ камер</CardTitle>
+                  <CardTitle>6000+ камер</CardTitle>
                   <CardDescription>Установлено по всему Пермскому краю</CardDescription>
                 </CardHeader>
               </Card>
